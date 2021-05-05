@@ -1,4 +1,4 @@
-# sf_test_app
+# app_sf
 
 Test app for SFactor
 
